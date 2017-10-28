@@ -1,0 +1,55 @@
+[29-Mar-2016 12:58:11 Asia/Calcutta] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/shekharc/public_html/sendmymail.in/test.php on line 6
+[02-Apr-2016 16:54:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '<' in /home/shekharc/public_html/sendmymail.in/passport.php on line 15
+[02-Apr-2016 16:55:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '4' (T_LNUMBER) in /home/shekharc/public_html/sendmymail.in/passport.php on line 17
+[02-Apr-2016 17:06:25 Asia/Calcutta] PHP Warning:  preg_match(): Unknown modifier '(' in /home/shekharc/public_html/sendmymail.in/passport.php on line 17
+[02-Apr-2016 17:07:59 Asia/Calcutta] PHP Warning:  preg_match(): Unknown modifier 't' in /home/shekharc/public_html/sendmymail.in/passport.php on line 16
+[02-Apr-2016 17:28:38 Asia/Calcutta] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/shekharc/public_html/sendmymail.in/passport.php on line 5
+[02-Apr-2016 17:28:38 Asia/Calcutta] PHP Warning:  include(http://www.passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusForFileNoNew?fileNo=AH3069745969416&amp;applDob=29/01/1993): failed to open stream: no suitable wrapper could be found in /home/shekharc/public_html/sendmymail.in/passport.php on line 5
+[02-Apr-2016 17:28:38 Asia/Calcutta] PHP Warning:  include(): Failed opening 'http://www.passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusForFileNoNew?fileNo=AH3069745969416&amp;applDob=29/01/1993' for inclusion (include_path='.:/usr/local/lib/php') in /home/shekharc/public_html/sendmymail.in/passport.php on line 5
+[11-Apr-2016 14:25:41 Asia/Calcutta] PHP Warning:  mysqli_connect(): (42000/1203): User shekharc_mailer already has more than 'max_user_connections' active connections in /home/shekharc/public_html/sendmymail.in/manage/admin/web/connect.php on line 13
+[11-Apr-2016 14:25:41 Asia/Calcutta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/shekharc/public_html/sendmymail.in/manage/admin/web/connect.php on line 15
+[13-Apr-2016 21:17:26 Asia/Calcutta] PHP Fatal error:  Call to undefined function CONCAT() in /home/shekharc/public_html/sendmymail.in/test.php on line 2
+[13-Apr-2016 21:19:41 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/shekharc/public_html/sendmymail.in/test.php on line 3
+[13-Apr-2016 21:19:41 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/shekharc/public_html/sendmymail.in/test.php on line 4
+[13-Apr-2016 21:47:02 Asia/Calcutta] PHP Notice:  Undefined variable: sent in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 116
+[13-Apr-2016 21:47:02 Asia/Calcutta] PHP Notice:  Undefined variable: sent in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 116
+[13-Apr-2016 21:47:17 Asia/Calcutta] PHP Notice:  Undefined variable: sent in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 116
+[13-Apr-2016 21:47:17 Asia/Calcutta] PHP Notice:  Undefined variable: sent in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 116
+[13-Apr-2016 21:50:17 Asia/Calcutta] PHP Notice:  Undefined variable: sent in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 116
+[13-Apr-2016 21:50:17 Asia/Calcutta] PHP Notice:  Undefined variable: sent in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 116
+[13-Apr-2016 21:51:34 Asia/Calcutta] PHP Notice:  Undefined variable: sent in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 116
+[13-Apr-2016 21:51:34 Asia/Calcutta] PHP Notice:  Undefined variable: sent in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 116
+[30-Apr-2016 16:30:29 Asia/Calcutta] PHP Notice:  Undefined variable: randapi in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 126
+[30-Apr-2016 16:30:29 Asia/Calcutta] PHP Notice:  Undefined variable: ipadd in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 130
+[30-Apr-2016 16:30:32 Asia/Calcutta] PHP Notice:  Undefined variable: randapi in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 126
+[30-Apr-2016 16:30:32 Asia/Calcutta] PHP Notice:  Undefined variable: ipadd in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 130
+[02-May-2016 19:49:32 Asia/Calcutta] PHP Notice:  Undefined variable: password in /home/shekharc/public_html/sendmymail.in/manage/admin/web/connect.php on line 14
+[02-May-2016 19:49:32 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home/shekharc/public_html/sendmymail.in/manage/admin/web/connect.php on line 14
+[02-May-2016 19:49:32 Asia/Calcutta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shekharc/public_html/sendmymail.in/manage/admin/web/connect.php:14) in /home/shekharc/public_html/sendmymail.in/session.php on line 6
+[02-May-2016 20:07:19 Asia/Calcutta] PHP Notice:  Undefined index: host in /home/shekharc/public_html/sendmymail.in/manage/admin/web/connect.php on line 32
+[02-May-2016 20:07:19 Asia/Calcutta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shekharc/public_html/sendmymail.in/manage/admin/web/connect.php:32) in /home/shekharc/public_html/sendmymail.in/session.php on line 6
+[02-May-2016 20:07:26 Asia/Calcutta] PHP Notice:  Undefined index: host in /home/shekharc/public_html/sendmymail.in/manage/admin/web/connect.php on line 32
+[02-May-2016 20:07:26 Asia/Calcutta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shekharc/public_html/sendmymail.in/manage/admin/web/connect.php:32) in /home/shekharc/public_html/sendmymail.in/session.php on line 6
+[02-May-2016 20:07:43 Asia/Calcutta] PHP Notice:  Undefined index: host in /home/shekharc/public_html/sendmymail.in/manage/admin/web/connect.php on line 32
+[02-May-2016 20:07:43 Asia/Calcutta] PHP Notice:  Undefined offset: -1 in /home/shekharc/public_html/sendmymail.in/manage/admin/web/connect.php on line 34
+[02-May-2016 20:07:43 Asia/Calcutta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shekharc/public_html/sendmymail.in/manage/admin/web/connect.php:32) in /home/shekharc/public_html/sendmymail.in/session.php on line 6
+[04-May-2016 16:44:02 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/shekharc/public_html/sendmymail.in/session.php on line 12
+[04-May-2016 16:44:02 Asia/Calcutta] PHP Warning:  Division by zero in /home/shekharc/public_html/sendmymail.in/index.php on line 691
+[04-May-2016 16:44:02 Asia/Calcutta] PHP Warning:  Division by zero in /home/shekharc/public_html/sendmymail.in/index.php on line 721
+[04-May-2016 16:44:02 Asia/Calcutta] PHP Warning:  Division by zero in /home/shekharc/public_html/sendmymail.in/index.php on line 751
+[04-May-2016 16:44:02 Asia/Calcutta] PHP Warning:  Division by zero in /home/shekharc/public_html/sendmymail.in/index.php on line 781
+[04-May-2016 19:24:49 Asia/Calcutta] PHP Notice:  Undefined index:  in /home/shekharc/public_html/sendmymail.in/web/header.php on line 112
+[04-May-2016 19:26:37 Asia/Calcutta] PHP Notice:  Undefined index:  in /home/shekharc/public_html/sendmymail.in/web/header.php on line 32
+[18-May-2016 06:26:09 Asia/Calcutta] PHP Warning:  file_get_contents(https://manage.sendmymail.in/currency.php): failed to open stream: HTTP request failed! HTTP/1.1 522 Origin Connection Time-out
+ in /home/shekharc/public_html/sendmymail.in/session.php on line 25
+[10-Jul-2016 15:20:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/shekharc/public_html/sendmymail.in/af.php on line 10
+[10-Jul-2016 15:21:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/shekharc/public_html/sendmymail.in/af.php on line 9
+[10-Jul-2016 15:21:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/shekharc/public_html/sendmymail.in/af.php on line 8
+[10-Jul-2016 15:22:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/shekharc/public_html/sendmymail.in/af.php on line 8
+[10-Jul-2016 15:23:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/shekharc/public_html/sendmymail.in/af.php on line 8
+[10-Jul-2016 15:23:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/shekharc/public_html/sendmymail.in/af.php on line 7
+[10-Jul-2016 15:23:46 Asia/Calcutta] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '52.66.76.37' (111) in /home/shekharc/public_html/sendmymail.in/af.php on line 7
+[10-Jul-2016 15:23:46 Asia/Calcutta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/shekharc/public_html/sendmymail.in/af.php on line 7
+[10-Jul-2016 15:30:59 Asia/Calcutta] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '52.66.76.37' (111) in /home/shekharc/public_html/sendmymail.in/af.php on line 7
+[10-Jul-2016 15:30:59 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/shekharc/public_html/sendmymail.in/af.php on line 8
+[10-Jul-2016 15:30:59 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/shekharc/public_html/sendmymail.in/af.php on line 8

@@ -1,0 +1,4 @@
+[26-Mar-2016 15:08:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 62
+[26-Mar-2016 15:08:41 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 118
+[26-Mar-2016 15:08:41 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 123
+[26-Mar-2016 15:08:41 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/shekharc/public_html/sendmymail.in/mypayment.php on line 127

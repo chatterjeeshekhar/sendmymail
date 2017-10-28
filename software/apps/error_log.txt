@@ -1,0 +1,12 @@
+[03-Apr-2016 15:23:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/shekharc/public_html/sendmymail.in/apps/pnr.php on line 63
+[03-Apr-2016 15:27:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.' in /home/shekharc/public_html/sendmymail.in/apps/pnr.php on line 64
+[03-Apr-2016 16:50:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/shekharc/public_html/sendmymail.in/apps/pnr.php on line 88
+[03-Apr-2016 17:03:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '*=' (T_MUL_EQUAL), expecting ';' in /home/shekharc/public_html/sendmymail.in/apps/pnr.php on line 88
+[03-Apr-2016 17:03:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '*=' (T_MUL_EQUAL) in /home/shekharc/public_html/sendmymail.in/apps/pnr.php on line 88
+[03-Apr-2016 17:04:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '*=' (T_MUL_EQUAL) in /home/shekharc/public_html/sendmymail.in/apps/pnr.php on line 88
+[03-Apr-2016 17:31:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shekharc/public_html/sendmymail.in/apps/pnr.php on line 110
+[03-Apr-2016 17:31:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '4' (T_LNUMBER), expecting ',' or ';' in /home/shekharc/public_html/sendmymail.in/apps/pnr.php on line 78
+[03-Apr-2016 18:26:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',' in /home/shekharc/public_html/sendmymail.in/apps/pnr.php on line 118
+[03-Apr-2016 18:26:59 Asia/Calcutta] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/shekharc/public_html/sendmymail.in/apps/pnr.php on line 118
+[27-Apr-2016 13:23:27 Asia/Calcutta] PHP Warning:  file_get_contents(http://www.pnrstatusbuzz.in/?pnrno=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/shekharc/public_html/sendmymail.in/apps/pnr.php on line 58
